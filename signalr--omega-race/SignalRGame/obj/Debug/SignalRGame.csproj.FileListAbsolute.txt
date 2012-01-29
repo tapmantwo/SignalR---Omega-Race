@@ -1,0 +1,7 @@
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\bin\SignalRGame.dll
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\bin\SignalRGame.pdb
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\bin\SignalR.dll
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\obj\Debug\SignalRGame.dll
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\obj\Debug\SignalRGame.pdb
